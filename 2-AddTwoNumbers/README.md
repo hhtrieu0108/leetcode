@@ -30,3 +30,4 @@ Constraints:
 	0 <= Node.val <= 9
 	It is guaranteed that the list represents a number that does not have leading zeros.
 
+![img](https://assets.leetcode.com/users/images/d73f63d9-7093-4ed6-92a3-095438b2b90e_1747922442.2568448.png)
